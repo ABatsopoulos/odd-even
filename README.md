@@ -3,4 +3,9 @@ Build and evaluate a binary classifier for even vs. odd digits, analyze its stre
 <br> 
 The model uses the "MNIST Database of Handwritten Digits" (https://archive.ics.uci.edu/dataset/683/mnist+database+of+handwritten+digits). <br>
 <br>
-The metrics that was used are precision, recall and accuracy.
+The metrics that was used are precision, recall and accuracy. <br>
+<br>
+Requirements: <br>
+- Python (3.8 or later) <br>
+- Jupyter Notebook <br>
+- matplotlib, scikit-learn, numpy
